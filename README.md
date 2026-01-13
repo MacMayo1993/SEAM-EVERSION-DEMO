@@ -21,7 +21,7 @@ This illustrates the core "think through the box, orthogonally" idea: regimes fl
 ```bash
 git clone https://github.com/MacMayo1993/SEAM-EVERSION-DEMO.git
 cd SEAM-EVERSION-DEMO
-pip install -r requirements.txt
+pip install -r Requirements.txt
 ```
 
 ## Run the animation (static GIF)
