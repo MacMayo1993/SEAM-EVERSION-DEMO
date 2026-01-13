@@ -16,6 +16,19 @@ The eversion phase shows how Regime A smoothly occupies the space of Regime B â€
 
 This illustrates the core "think through the box, orthogonally" idea: regimes flip by navigating the geometry, not by forcing artificial jumps.
 
+## Quick Start with GitHub Codespaces
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MacMayo1993/SEAM-EVERSION-DEMO)
+
+The fastest way to run this demo is with GitHub Codespaces:
+
+1. Click the badge above or the "Code" button on GitHub
+2. Select "Create codespace on main"
+3. Wait for the environment to set up (dependencies install automatically)
+4. Run `python src/main.py` or open the Jupyter notebook
+
+Everything is pre-configured and ready to go!
+
 ## Installation
 
 ```bash
